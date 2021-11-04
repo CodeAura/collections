@@ -21,5 +21,5 @@ dagen.reverse()
 print(dagen[0:5])
 time.sleep(3)
 print("Alle weekenddagen omgekeerd zijn?")
-dagen.reverse
-print(dagen[5:])
+dagen.reverse()
+print(dagen[4:5])
